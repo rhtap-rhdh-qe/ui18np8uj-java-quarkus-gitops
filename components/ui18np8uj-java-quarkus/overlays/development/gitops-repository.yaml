@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ui18np8uj-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ui18np8uj-java-quarkus-gitops
